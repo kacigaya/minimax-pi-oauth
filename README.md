@@ -5,7 +5,7 @@
 <h1 align="center">MiniMax Pi OAuth</h1>
 
 <p align="center">
-   <strong>Simple MiniMax OAuth installer for Pi.</strong><br>
+   <strong>MiniMax OAuth installer for Pi.</strong><br>
    <em>This registers MiniMax's Anthropic-compatible endpoint in Pi and uses a local
    OAuth helper to keep the access token fresh.</em>
 </p>
